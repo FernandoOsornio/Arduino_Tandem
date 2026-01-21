@@ -2,7 +2,7 @@
 
 // URL de ingestión de tu stream individual (con stream secret incluido)
 const STREAM_URL =
-//  'https://:_9O6oDBbTVWvpaiq_6OU4Q@tandem.autodesk.com/api/v1/timeseries/models/urn:adsk.dtm:mfugXGwqQ1iv8mdUtFTGHg/streams/AQAAACgpEaLILE57qjNmm9E1HNgAAAAA';
+// 'https://:_9O6oDBbTVWvpaiq_6OU4Q@tandem.autodesk.com/api/v1/timeseries/models/urn:adsk.dtm:mfugXGwqQ1iv8mdUtFTGHg/streams/AQAAACgpEaLILE57qjNmm9E1HNgAAAAA';
   'https://:JUe5EzpMT4yZS-00HiNNJw@tandem.autodesk.com/api/v1/timeseries/models/urn:adsk.dtm:m9WWPLlrR5-zyhpC8fWkkQ/streams/AQAAAJkpUNuV00Kvh8rrdMEPz9wAAAAA';
   
 // Extraemos el secreto del URL para el header Authorization
